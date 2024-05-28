@@ -1,1 +1,2 @@
-# custom-tuning
+# Custom Tuning
+Cotelea Bogdan
